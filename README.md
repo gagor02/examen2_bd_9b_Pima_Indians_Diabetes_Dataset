@@ -1,2 +1,5 @@
-# examen2_bd_9b_Pima_Indians_Diabetes_Dataset
-Examen del segundo parcial para la clase de:
+
+# Examen del segundo parcial para la clase de Extracción de conocimientos de bases de datos
+
+## Hecho por: 
+Gómez Ramírez Gabriel Armando 9B
